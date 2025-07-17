@@ -1,1 +1,1 @@
-# cmiller holds lupus information web site created by Cyndee Miller.
+# cmiller holds lupus information website created by Cyndee Miller.
